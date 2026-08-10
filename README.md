@@ -1,6 +1,6 @@
 # WordPress Fix
 
-Advanced WordPress REST API endpoint vulnerability scanner designed to identify exposed endpoints and potential security risks in WordPress installations.
+### Advanced WordPress REST API endpoint vulnerability scanner designed to identify exposed endpoints and potential security risks in WordPress installations.
 
 <img width="713" height="734" alt="image" src="https://github.com/user-attachments/assets/5677bb90-5a7a-4452-b7b8-885c64890d33" />
 
