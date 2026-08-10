@@ -2,7 +2,7 @@
 
 Advanced WordPress REST API endpoint vulnerability scanner designed to identify exposed endpoints and potential security risks in WordPress installations.
 
-(https://github.com/yogsec/wordpress-fix/blob/main/Screenshot%20From%202026-08-10%2008-28-28.png?raw=true)[https://github.com/yogsec/wordpress-fix/blob/main/Screenshot%20From%202026-08-10%2008-28-28.png?raw=true]
+!(https://github.com/yogsec/wordpress-fix/blob/main/Screenshot%20From%202026-08-10%2008-28-28.png?raw=true)[https://github.com/yogsec/wordpress-fix/blob/main/Screenshot%20From%202026-08-10%2008-28-28.png?raw=true]
 
 ## Overview
 
